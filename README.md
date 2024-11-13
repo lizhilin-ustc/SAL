@@ -1,4 +1,4 @@
-# Neural Networks 2024 - SAL
+# SAL (Neural Networks 2025)
 The official implementation of "Multilevel Semantic and Adaptive Actionness Learning for Weakly Supervised Temporal Action Localization"
 
 ## Abstract
