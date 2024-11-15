@@ -1,6 +1,8 @@
 # SAL (Neural Networks 2025)
 The official implementation of "Multilevel Semantic and Adaptive Actionness Learning for Weakly Supervised Temporal Action Localization"
 
+## The source code will be released after the paper is published.
+
 ## Abstract
 Weakly supervised temporal action localization aims to identify and localize action instances in untrimmed videos with only video-level labels. Typically, most methods are based on a multiple instance learning framework that uses a top-K strategy to select salient segments to represent the entire video. Therefore fine-grained video information cannot be learned, resulting in poor action classification and localization performance. In this paper, we propose a Multilevel Semantic and Adaptive Actionness Learning Network SAL, which is mainly composed of a multilevel semantic learning MSL branch and an adaptive actionness learning AAL branch. The MSL branch introduces second-order video semantics, which can capture fine-grained information in videos and improve video-level classification performance. Furthermore, we propagate second-order semantics to action segments to enhance the difference between different actions. The AAL branch uses pseudo labels to learn class-agnostic action information. It introduces a video segments mix-up strategy to enhance foreground generalization ability and adds an adaptive actionness mask to balance the quality and quantity of pseudo labels, thereby improving the stability of training. Extensive experiments show that SAL achieves state-of-the-art results on three benchmarks.
 
