@@ -1,5 +1,5 @@
 # SAL (Neural Networks 2025)
-The official implementation of "Multilevel Semantic and Adaptive Actionness Learning for Weakly Supervised Temporal Action Localization"
+The official implementation of "Multilevel Semantic and Adaptive Actionness Learning for Weakly Supervised Temporal Action Localization".
 
 ## The source code will be released after the paper is published.
 
