@@ -1,4 +1,7 @@
 # SAL (Neural Networks 2024)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multilevel-semantic-and-adaptive-actionness/weakly-supervised-action-localization-on-1)](https://paperswithcode.com/sota/weakly-supervised-action-localization-on-1?p=multilevel-semantic-and-adaptive-actionness)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multilevel-semantic-and-adaptive-actionness/weakly-supervised-action-localization-on-2)](https://paperswithcode.com/sota/weakly-supervised-action-localization-on-2?p=multilevel-semantic-and-adaptive-actionness)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multilevel-semantic-and-adaptive-actionness/weakly-supervised-action-localization-on)](https://paperswithcode.com/sota/weakly-supervised-action-localization-on?p=multilevel-semantic-and-adaptive-actionness)
 The official implementation of "Multilevel Semantic and Adaptive Actionness Learning for Weakly Supervised Temporal Action Localization".
 Paper: Anyone clicking on this [link](https://authors.elsevier.com/c/1k93s3BBjKrkQR) before January 12, 2025 will be taken directly to the final version of this article on ScienceDirect.
 
