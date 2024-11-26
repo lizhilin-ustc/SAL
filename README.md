@@ -38,7 +38,7 @@ Dataset: Download the two-stream I3D features for THUMOS'14 to "DATA_PATH". You 
 
 Update the data_path in "./scripts/train.sh" and "./scripts/inference.sh".
 
-You can download our trained model from [here(Extract code:XXXX)]().
+You can download our trained model from [here](https://pan.baidu.com/s/1lTJ6t7PN_VeVcaM-CwNaYQ?pwd=41s4).
 
 ## Training
 ```
