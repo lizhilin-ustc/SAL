@@ -51,6 +51,7 @@ You can download our trained model from [here(Extract code:XXXX)]().
 ```
 ## Citation
 If this work is helpful for your research, please consider citing our works.
+```
 @article{li2024multilevel,
   title={Multilevel semantic and adaptive actionness learning for weakly supervised temporal action localization},
   author={Li, Zhilin and Wang, Zilei and Dong, Cerui},
@@ -59,3 +60,4 @@ If this work is helpful for your research, please consider citing our works.
   year={2024},
   publisher={Elsevier}
 }
+```
