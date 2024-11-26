@@ -34,7 +34,7 @@ Python: 3.9.7
 
 GPU: NVIDIA 3090
 
-Dataset: Download the two-stream I3D features for THUMOS'14 to "DATA_PATH". You can download them from [Google Drive](https://drive.google.com/file/d/1paAv3FsqHtNsDO6M78mj7J3WqVf_CgSG/view?usp=sharing).
+Dataset: Download the two-stream I3D features for THUMOS'14 to "DATA_PATH". You can download them from [here](https://drive.google.com/file/d/1paAv3FsqHtNsDO6M78mj7J3WqVf_CgSG/view?usp=sharing).
 
 Update the data_path in "./scripts/train.sh" and "./scripts/inference.sh".
 
