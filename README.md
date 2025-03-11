@@ -1,4 +1,4 @@
-# SAL (Neural Networks 2024)
+# SAL (Neural Networks 2025)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multilevel-semantic-and-adaptive-actionness/weakly-supervised-action-localization-on-1)](https://paperswithcode.com/sota/weakly-supervised-action-localization-on-1?p=multilevel-semantic-and-adaptive-actionness)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multilevel-semantic-and-adaptive-actionness/weakly-supervised-action-localization-on-2)](https://paperswithcode.com/sota/weakly-supervised-action-localization-on-2?p=multilevel-semantic-and-adaptive-actionness)
