@@ -47,6 +47,10 @@ You can download our trained model from [here](https://pan.baidu.com/s/1lTJ6t7PN
 ```
     bash ./scripts/inference.sh
 ```
+
+## ActivityNet
+https://github.com/lizhilin-ustc/SAL_ActivityNet
+
 ## Citation
 If this work is helpful for your research, please consider citing our works.
 ```
